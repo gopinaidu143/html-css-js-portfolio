@@ -318,7 +318,10 @@ section {
 
 #experience {
   position: relative;
+  margin-bottom: 200px; 
+
 }
+
 
 .experience-sub-title {
   color: rgb(85, 85, 85);
@@ -430,3 +433,6 @@ footer {
 footer p {
   text-align: center;
 }
+
+
+
